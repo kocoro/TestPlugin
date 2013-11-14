@@ -7,7 +7,7 @@
     <keywords>phonegap,calendar</keywords>
  
  
-    <js-module src="assets/www/js/calendar.js" name="Calendar">
+    <js-module src="assets/www/js/calendar.js" name="calendar">
         <clobbers target="window.calendar" />
     </js-module>
  
