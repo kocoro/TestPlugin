@@ -1,5 +1,5 @@
 <plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
-           id="org.example.calendarplugin.Calendar"
+           id="org.example.calendarplugin"
       version="0.1.0">
     <name>Calendar</name>
     <description>Sample PhoneGap Calendar Plugin</description>
